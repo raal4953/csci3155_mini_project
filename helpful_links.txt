@@ -1,0 +1,4 @@
+# insert all links with ## and one line description
+
+## https://www.youtube.com/watch?v=_jMSrMex6R0
+Diving Into Rust For The First Time
