@@ -2,3 +2,15 @@
 
 ## https://www.youtube.com/watch?v=_jMSrMex6R0
 Diving Into Rust For The First Time
+
+## https://www.youtube.com/watch?v=Dbytx0ivH7Q
+Rust Concurrency Explained
+
+## https://dev.to/buntine/aha-understanding-lifetimes-in-rust
+Aha! Understanding lifetimes in Rust
+
+## https://doc.rust-lang.org/book/first-edition/macros.html
+Rust Macros
+
+## http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/
+Things you could do with the Rust AST
